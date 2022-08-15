@@ -3,6 +3,8 @@
  
   "Experience": [
     {
+      "title":"Engineer",
+      "dateRange":"April 2021 - February 2022",
       "company": "Yassir",
       "Tasks": [
         "Engineered and maintained the back end of major features for yassir Express Mobile App ",
@@ -11,15 +13,18 @@
       ]
     },
     {
+      "title":"Operation Manager",
+      "dateRange":"December 2020 - July 2021",
       "company": "Micro Club",
       "Tasks": [
-        "Occupied the operation manager job role at Micro Club",
         "Developed various kind of softwares, programs and internal tools for Micro club's management and events",
         "Participate with different teams of software engineers on the development of different products for different ministries. ",
         "Organized and Supervised software development, Educational and Exhibition Stand events"
       ]
     },
     {
+      "title":"Professional Mentor",
+      "dateRange":"June 2018 - Janury 2022",
       "company": "STEM Center",
       "Tasks": [
         "Provided coding mentorship and conducted tech workshops for students with different ages",
