@@ -1,5 +1,39 @@
 {
 
-  "skills" : ["Database Design","RESTful API","GraphQL","Architectural Design","NoSQL","SQL", "JavaScript", "TypeScript", "Node js", "Express js", "MySQL", "MangoDB", "Redis","React js", "Next js", "Redux", "NPM", "Git", "GitHub", "Docker","Third Party API Integration"],
+ 
+  "Experience": [
+    {
+      "company": "Yassir",
+      "Tasks": [
+        "Engineered and maintained the back end of major features for yassir Express Mobile App ",
+        "Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Yassir's iOS and Android mobile apps",
+        "Communicate with different teams of engineers, designers and Managers on a daily basis. "
+      ]
+    },
+    {
+      "company": "Micro Club",
+      "Tasks": [
+        "Occupied the operation manager job role at Micro Club",
+        "Developed various kind of softwares, programs and internal tools for Micro club's management and events",
+        "Participate with different teams of software engineers on the development of different products for different ministries. ",
+        "Organized and Supervised software development, Educational and Exhibition Stand events"
+      ]
+    },
+    {
+      "company": "STEM Center",
+      "Tasks": [
+        "Provided coding mentorship and conducted tech workshops for students with different ages",
+        "Participated with a team of 10 persons and won the second place worldwide in The First Global Challenge competition"
+      ]
+    },
+    {
+      "company": "US Embassy",
+      "Tasks": [
+        "",
+        ""
+      ]
+    }
+  ]
+
  
 }
