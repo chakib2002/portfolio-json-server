@@ -4,11 +4,12 @@
   "Experience": [
     {
       "title":"Engineer",
-      "dateRange":"April 2021 - February 2022",
+      "dateRange":"July 2021 - May 2022",
       "company": "Yassir",
       "Tasks": [
-        "Engineered and maintained the back end of major features for yassir Express Mobile App ",
-        "Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Yassir's iOS and Android mobile apps",
+        "Backend engineer member with Yassir Express development team.",
+        "Developed and maintained major features for Yassir Express Mobile App.",
+        "Interfaced with ux/ui designers and other developers to ensure thoughtful and coherent user experiences across Yassir's iOS and Android mobile apps.",
         "Communicate with different teams of engineers, designers and Managers on a daily basis. "
       ]
     },
@@ -17,18 +18,21 @@
       "dateRange":"December 2020 - July 2021",
       "company": "Micro Club",
       "Tasks": [
-        "Developed various kind of softwares, programs and internal tools for Micro club's management and events",
-        "Participate with different teams of software engineers on the development of different products for different ministries. ",
-        "Organized and Supervised software development, Educational and Exhibition Stand events"
+        "Head of the Operations department at Micro club.",
+        "Engineered and developed various kind of softwares, programs and internal tools for Micro club's management and events.",
+        "Developed and successfully delivered a software product for the Ministry of Culture.",
+        "Organized and Supervised software development, Educational and Exhibition Stand events."
       ]
     },
     {
       "title":"Professional Mentor",
-      "dateRange":"June 2018 - Janury 2022",
+      "dateRange":"Aug 2019 - November 2020",
       "company": "STEM Center",
       "Tasks": [
-        "Provided coding mentorship and conducted tech workshops for students with different ages",
-        "Participated with a team of 10 persons and won the second place worldwide in The First Global Challenge competition"
+        "Mentor of web development at the Algiers STEM Center World Learning Algeria.",
+        "Developed a management software that allows mentors to select the needed materials for their workshops.",
+        "Participated at an International competition of Robotics with team Algeria and won the second place worldwide.",
+        "Delivered trainings and courses about web development & IOT for students with diffrent ages."
       ]
     },
     {
@@ -36,9 +40,10 @@
       "dateRange":"jun 2019 - july 2019",
       "company": "US Embassy",
      "Tasks": [
-        "Engineered and maintained the back end of major features for yassir Express Mobile App ",
-        "Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Yassir's iOS and Android mobile apps",
-        "Communicate with different teams of engineers, designers and Managers on a daily basis. "
+        "Participant at an Exchange Program fully funded by the us government.",
+        "Studied Leadership and Entrepreneurship at the university of Reno in Nevada, USA.",
+        "Alumni at the us embassy in Algiers.",
+        "Member of steering committee that coordinate between the alumnus and us embassy in Algiers."
       ]
     }
   ]
