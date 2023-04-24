@@ -4,9 +4,10 @@
   "Experience": [
    { 
     "title":"Founder",
-      "dateRange":"October 2022",
+      "dateRange":"April 2023",
       "company": "Managili",
       "Tasks": [
+        "Developers lead of the project",
         "UI/UX of the platform",
         "Developed the frontend of the platform using NextJS/Typescript",
         "Payment integration using Stripe payment",
